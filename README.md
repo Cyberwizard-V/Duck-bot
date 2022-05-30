@@ -1,9 +1,6 @@
 # Duck-bot
 Discord bot | Duck Cave
 
-:duck: _***Channel made for updates***_ :duck: 
- Je kan hier alle patch notes zien van de bot.
-
 :duck: _***Commands***_:duck: 
 Quack - Quack message
 Quote - Random Quote

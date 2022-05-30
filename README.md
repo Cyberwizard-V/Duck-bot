@@ -1,7 +1,6 @@
 # Duck-bot
 Discord bot | Duck Cave
-
-:regional_indicator_d: :regional_indicator_u: :regional_indicator_c: :regional_indicator_k:  :regional_indicator_b: :regional_indicator_o: :regional_indicator_t::bangbang:  - :duck: 
+ - :duck: 
 
 :duck: _***Channel made for updates***_ :duck: 
  Je kan hier alle patch notes zien van de bot.
@@ -16,8 +15,6 @@ Quote - Random Quote
 :duck: _***Duck bot website ***_:duck: 
 Feel free to visit the duck bot website !
 https://Duckbot.cyberwizard-v.repl.co
-
-:regional_indicator_p: :regional_indicator_a: :regional_indicator_t: :regional_indicator_c: :regional_indicator_h:  :regional_indicator_n: :regional_indicator_o: :regional_indicator_t: :regional_indicator_e: :regional_indicator_s:
 
 Developer: @BMO#6000 
 Version: `v0.0.2`  

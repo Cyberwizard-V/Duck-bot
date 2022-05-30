@@ -1,6 +1,5 @@
 # Duck-bot
 Discord bot | Duck Cave
- - :duck: 
 
 :duck: _***Channel made for updates***_ :duck: 
  Je kan hier alle patch notes zien van de bot.
@@ -40,4 +39,4 @@ Version: `v0.0.2`
 `+ Suck my big duck`
 
 
-feel free to contact me or @ me if you want a message to be added :slight_smile: !!
+feel free to contact me or @ me if you want a message to be added :) !!

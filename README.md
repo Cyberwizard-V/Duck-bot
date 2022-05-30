@@ -29,14 +29,15 @@ Version: `v0.0.2`
 + Quack - UPDATE: It now sends a random message instead of the same.
 
 ***//------------ Current list of messages ------------//***
-`+ QUACK QUACK QUACK B!TCH`
-`+ QuAcK`
-`+ Just quacking around... :duck:`
-`+ What the quack :duck:`
-`+ qUaCk mE`
-`+ Duck you`
-`+ What in the quackchilly duck`
-`+ Suck my big duck`
+
+* `+ QUACK QUACK QUACK B!TCH`
+* `+ QuAcK`
+* `+ Just quacking around... :duck:`
+* `+ What the quack :duck:`
+* `+ qUaCk mE`
+* `+ Duck you`
+* `+ What in the quackchilly duck`
+* `+ Suck my big duck`
 
 
 feel free to contact me or @ me if you want a message to be added :) !!

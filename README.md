@@ -11,7 +11,7 @@
 <h3 align="center">Thanks for checking up on Duckbot ! :)</h3>
 <h4 align="center">“Ducks are one of the smallest types of waterfowl…often the most colorful.”</h4>
 <h5 align="center">Duckbot made by @Cyberwizard-V</h5>
-<h5 align="center"><----------=------------------></h5>
+<h5 align="center"><-------------------------------></h5>
 :duck: _***Commands***_:duck: 
 Quack - Quack message
 Quote - Random Quote

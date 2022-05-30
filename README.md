@@ -1,5 +1,5 @@
 # Duck-bot | Discord bot | Duck Cave
-<h2 align="center">Duck bot</h2
+<h2 align="center">Duck bot</h2>
 <p align="center">
   <img 
     width="300"
